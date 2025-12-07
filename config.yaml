@@ -1,0 +1,8 @@
+desktop_path: ""  # Leave empty to auto-detect Desktop
+mappings:
+  Images: [".png", ".jpg", ".jpeg", ".gif", ".webp"]
+  Documents: [".pdf", ".docx", ".txt", ".pptx", ".xlsx", ".csv"]
+  Code: [".py", ".java", ".js", ".html", ".css", ".cpp"]
+  Videos: [".mp4", ".mkv", ".avi"]
+  Music: [".mp3", ".wav"]
+  Archives: [".zip", ".rar", ".7z"]
